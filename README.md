@@ -10,13 +10,13 @@ Este proyecto es una pequeña aplicación web para gestionar alumnos de un jard�
 - sweetalert2
 
 # Funcionalidades:
-  # GET:
+# GET: 
 - Listar todos los Alumnos (GET) con toda su informacion.
-  # POST:
+# POST:
 - Existe la posibilidad de poder agregar alumnos (harcodeado)
-  # PUT:
+# PUT:
 - Existe la posilibilidad de poder editar alumnos con un mini formulario. Según el ID que se ingrese, va a editar ese registro.
     - Si se ingresa un ID inexistente, da error.
-  # Delete:
+# Delete:
 - Existe la posiblidad de poder eliminar alumnos, al ingresar el ID del alumno que queremos eliminar.
     - Si se ingresa un ID inexistente, da error.
